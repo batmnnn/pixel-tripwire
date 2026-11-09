@@ -285,6 +285,8 @@ Image-channel defenses should be reported by carrier, with partial-leakage metri
 
 ## Code and Data
 
+Repository: https://github.com/batmnnn-bf/pixel-tripwire
+
 - **Public code** (`study/pt/`): chart generation, rendering, raster tools, detectors, VLM prompts and parser, and figures. All code was written during the sprint (7–9 Nov 2026); none is preexisting.
 - **Freezes** (`study/freeze/`): `F1.json`, `F1b.json` and `F2.json`, with SHA-256 hashes.
 - **Aggregates** (`study/runs/`): `heldout_summary.json`, `heldout_vlm_summary.json`, `heldout_qwen7b_summary.json`, `vlm_backend_check.json`, `rep_summary.json`, `extra_monitor_summary.json`, `exploratory_*.json`, and per-image public rows with messages stripped (`heldout_public_rows.json`).
