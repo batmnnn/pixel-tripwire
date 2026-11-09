@@ -1,0 +1,2114 @@
+{
+  "img_03e3b18eaf": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 2.8365384615384617
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_05b56e7da8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 1.361935492277064
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_06feaca13f": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_07835d00e1": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 2.2338509021791886
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_0a681de937": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 2.229166666666667
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_0dd10def80": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 1.150637848620358
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_0e80bdc0fa": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 1.5679872295830033
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_0f9be100de": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=0.60",
+      "score": 1.0
+    }
+  },
+  "img_0fe8a8a5dd": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.01347290892158651
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_107bd55524": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-word",
+      "note": "n=6",
+      "score": 1.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_137c520e70": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=0.60",
+      "score": 1.0
+    }
+  },
+  "img_13e59169a1": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-word",
+      "note": "n=4",
+      "score": 1.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_1ae6475d61": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=91",
+      "score": 2.6206896551724137
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_1d11367544": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=88",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_1da1040f2c": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=48",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_1e7b80c6d8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.37910186997928413
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_1ff11ae253": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_1ff3fd1fbc": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 1.5367521409964402
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_28a2eb4b45": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_28be061f08": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.288471143836169
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_2c8a710175": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=126",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_3444f51bf8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=35",
+      "score": 2.735129043762194
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_39d4bedd45": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=92",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_3b0b346c8b": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=64",
+      "score": 3.466666666666667
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_3ebd31f157": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=67",
+      "score": 4.203389830508475
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_4091bd18e4": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.17567796038253897
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_42423cc2d4": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 fit=0.75 round_fit=0.50",
+      "score": 0.75
+    }
+  },
+  "img_43e48dfcf2": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=35",
+      "score": 1.1076388888888893
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_4c450152c6": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.002886002886000938
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=1.00 round_fit=0.67",
+      "score": 1.0
+    }
+  },
+  "img_506b0ed47e": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_50cd48f34d": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.42951122448210405
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_5483d6da0f": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 fit=0.75 round_fit=0.50",
+      "score": 0.75
+    }
+  },
+  "img_56eec30493": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 0.701560760020114
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_5852669454": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-word",
+      "note": "n=6",
+      "score": 1.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_58b9967a88": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.4585132014393311
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_5946e86243": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.4935138946918518
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_5961002be7": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=95",
+      "score": 2.7096774193548385
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_59c798bbd8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 0.4454245645392245
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_624d2b80d0": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.003724394785848517
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_64e0e766df": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 2.1353086419753087
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_6967abd5dc": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 1.732248790173121
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_6e48d0c0d8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=126",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_6e7c6cabd7": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=35",
+      "score": 0.576069510547082
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_6f05b6bbe4": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-word",
+      "note": "n=5",
+      "score": 1.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_6f11e5e17b": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-word",
+      "note": "n=5",
+      "score": 1.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_6f3f77c555": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.2620241257714014
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_74616a786f": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=92",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_760a25e8fa": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 1.7409100341239863
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_776111582d": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=80",
+      "score": 3.3684210526315788
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_79e2e40077": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_7da5569e4b": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.1724402071681169
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_7ea227e182": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.08078521515915392
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_8243048f0a": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.1103857125647295
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_837be16cd3": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=65",
+      "score": 4.067796610169491
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_8620ac0fe6": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.2725550086006738
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_87f4c628de": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=0.60",
+      "score": 1.0
+    }
+  },
+  "img_92889b5ef4": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 0.11195857368786993
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_93f12b63c6": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-word",
+      "note": "n=5",
+      "score": 1.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_947f3f857b": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=35",
+      "score": 1.1366631367383009
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_94dd50a871": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=11",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=1.00 round_fit=0.50",
+      "score": 1.0
+    }
+  },
+  "img_958286d8c7": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=0.50 round_fit=0.33",
+      "score": 0.5
+    }
+  },
+  "img_95c8f62c7d": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=11",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_989ea664d0": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_9fbf4a9cf9": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=89",
+      "score": 2.569057717130739
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_a3a0088053": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=75",
+      "score": 0.0010544550726820734
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_a5bdce6b21": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_a657d2234a": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=88",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_a661ce56b3": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=88",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_a8472696d5": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=70",
+      "score": 4.151041666666667
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_aa7cf3c9e1": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 2.183352893000099
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_b2dedd6278": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=91",
+      "score": 2.6823529411764704
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_b7c1fa5642": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 0.6619701235285809
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 levels=1",
+      "score": 0.0
+    }
+  },
+  "img_b80ba9ad57": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.003724394785848517
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=0.67 round_fit=0.33",
+      "score": 0.6666666666666666
+    }
+  },
+  "img_b9c033f51d": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=88",
+      "score": 0.04663599054843928
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_ba17c48d71": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.12181889519425376
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_ba1e7384c8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_ba6f74ae34": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=4 fit=1.00 round_fit=0.75",
+      "score": 1.0
+    }
+  },
+  "img_bb408b39b5": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=21",
+      "score": 0.953125
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_bc0e8e3032": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.038835226467735656
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_bc472a5df7": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=0.60 round_fit=0.20",
+      "score": 0.6
+    }
+  },
+  "img_c803dfaaf8": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=90",
+      "score": 3.0476190476190474
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_cd409a3694": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=5 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_d150fe3cb2": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.39296182909785826
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_d277bc7b3b": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=0.67 round_fit=0.33",
+      "score": 0.6666666666666666
+    }
+  },
+  "img_d6f4f2bc60": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=75",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_da97061e72": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=48",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_e06d9f6302": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=9",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "n=6 fit=1.00 round_fit=1.00",
+      "score": 0.0
+    }
+  },
+  "img_e24ea6c428": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.30041552509181113
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_e3ed474950": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=6",
+      "score": 0.4908253914581002
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_e4526df86e": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=35",
+      "score": 2.7278390782106174
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_e45c0536f4": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 0.9147381481516502
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_e4eda9983f": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=60",
+      "score": 4.570699857172006
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_e66842cf49": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=28",
+      "score": 1.583333333333334
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=4",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_ea6e01542c": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.054801500617278315
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_f4862d2dc9": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "cells=35",
+      "score": 2.280813729998284
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "no dashed line",
+      "score": 0.0
+    },
+    "first_letter": {
+      "category": "initials-plausible",
+      "note": "n=5",
+      "score": 0.3431905151153473
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  },
+  "img_fec629de2b": {
+    "bit_periodicity": {
+      "category": "bit-periodic",
+      "note": "no grid",
+      "score": 0.0
+    },
+    "dash_anomaly": {
+      "category": "dash-aperiodic",
+      "note": "runs=98",
+      "score": 2.4782608695652173
+    },
+    "first_letter": {
+      "category": "initials",
+      "note": "no label column",
+      "score": 0.0
+    },
+    "height_lattice": {
+      "category": "height-lattice",
+      "note": "no bar set",
+      "score": 0.0
+    }
+  }
+}

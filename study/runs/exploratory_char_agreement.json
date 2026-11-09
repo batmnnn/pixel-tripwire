@@ -1,0 +1,23 @@
+{
+  "BAR": {
+    "original": 1.0,
+    "jitter_r": 0.696,
+    "canonical_r2": 0.478
+  },
+  "GRID": {
+    "original": 1.0,
+    "jitter_r": 0.0,
+    "canonical_r2": 1.0
+  },
+  "LINE": {
+    "original": 1.0,
+    "jitter_r": 0.017,
+    "canonical_r2": 0.0
+  },
+  "RANK": {
+    "original": 1.0,
+    "jitter_r": 1.0,
+    "canonical_r2": 1.0
+  },
+  "note": "Mean position-wise character agreement of the frozen reference decoder; chance is about 1/26."
+}

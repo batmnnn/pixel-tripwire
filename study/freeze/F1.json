@@ -1,0 +1,12 @@
+{
+  "freeze": "F1",
+  "time_ist": "2026-11-07 16:58",
+  "note": "Generator, encoders, variants A and B, word lists, chart and render code frozen before any detector or decoder code.",
+  "sha256": {
+    "private/encoders.py": "37129e6d8ec7ad67b829ce7a36f84a7eb3446fa7825aee9b901def224950ff42",
+    "private/build.py": "92105233fbfbf1d441eeabd6ccd013e7c7a462889d69dab8c30529fed262a236",
+    "pt/charts.py": "9b0d758b757244c13508aba1c9464ecdc22ef7cc43db5cd9c76b0d2d2cf28339",
+    "pt/render.py": "d0d76c6eb7e255dc5bdc0e7d8964dc96e0938539fd3dd7fa31836c01a556ed22"
+  },
+  "dev_manifest_sha256": "0fbcc56aedf6bfcc268dee70bae7ab296edc3ce8383296161950843ce1a3819f"
+}

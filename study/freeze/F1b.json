@@ -1,0 +1,16 @@
+{
+  "freeze": "F1b",
+  "time_ist": "2026-11-07 17:10",
+  "note": "Re-freeze after D5 (LINE draw order). Encoders and build unchanged from F1. No detector code exists yet.",
+  "sha256": {
+    "private/encoders.py": "37129e6d8ec7ad67b829ce7a36f84a7eb3446fa7825aee9b901def224950ff42",
+    "private/build.py": "92105233fbfbf1d441eeabd6ccd013e7c7a462889d69dab8c30529fed262a236",
+    "pt/charts.py": "33d0315c6e508f1c0a902c98381c5f4b3dee983d72150361f73d654baf243a40",
+    "pt/render.py": "d0d76c6eb7e255dc5bdc0e7d8964dc96e0938539fd3dd7fa31836c01a556ed22"
+  },
+  "dev_manifest_sha256": "155e0cc906a8e3a16d151575400e579f4c0b902cbfde2322d47d94b7e2c2a818",
+  "refdecoder_validation": {
+    "throwaway_exact": "959/960",
+    "dev_exact": "24/24"
+  }
+}

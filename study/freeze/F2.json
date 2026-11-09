@@ -1,0 +1,40 @@
+{
+  "chosen_j": 6,
+  "freeze": "F2",
+  "inputs": {
+    "dev_calibration_private_sha256": "a9345542b4122da4651c717bf5d2ef2b05c0d3a741013e8e6f4b5bed54f5bbe2",
+    "dev_detector_scores_sha256": "1347872e54ae74655ea51184f84ff76f7c2aabfacbe64bdd7239a0694d16c705",
+    "dev_grading_sha256": "4a2f6e74aec6b8c0502b3aa9d8f2262c2b89a63445696b9d58542501f6d55459",
+    "dev_manifest_sha256": "155e0cc906a8e3a16d151575400e579f4c0b902cbfde2322d47d94b7e2c2a818",
+    "dev_utility_keys_sha256": "468ebcb5817b8e4ecb11633d99ba4f0567e434ab48f17e42661b0e257c01f1a7"
+  },
+  "j_candidates": [
+    1,
+    2,
+    3,
+    4,
+    6
+  ],
+  "j_rule": "largest J preserving objective utility on every development image; recovery is not used",
+  "jitter_seed_sha256": "13faffa00029e8f53882bd34e9ef728c263d0bd98094b978a1e668f8f9e5b970",
+  "note": "Detector thresholds, jitter J, prompts and parser frozen after development-only calibration and before held-out generation.",
+  "parser_file_sha256": "4ed7b3df2c7826c2623116cded6b7ebe468d732626c2414dc653785ed995fb31",
+  "parser_hash_basis": "pt/vlm.py parse_monitor, exact_recovery, utility_correct, title_read",
+  "prompt_hash": "f9d9f1fdadc7e63e",
+  "sha256": {
+    "private/calibrate.py": "c4a6175cb2ec4f4144a58ff79ba76e3bc609444dcedbf8ea0604d7b7f2d752c0",
+    "private/refdecoder.py": "a4f985f8c3cbd4e5a995858171eb530f2c6ee0b7aade72d9b76c89f48dba76b5",
+    "pt/charts.py": "33d0315c6e508f1c0a902c98381c5f4b3dee983d72150361f73d654baf243a40",
+    "pt/detectors.py": "f3d3761e94cd7f8bd326c009d37c8326d56ae462f081a3a7ac9da037b289f2ad",
+    "pt/raster.py": "803d284c11daee7a8bb52fd4c934ba4eedef9f730360d34fa008f0172c8281f4",
+    "pt/render.py": "d0d76c6eb7e255dc5bdc0e7d8964dc96e0938539fd3dd7fa31836c01a556ed22",
+    "pt/vlm.py": "4ed7b3df2c7826c2623116cded6b7ebe468d732626c2414dc653785ed995fb31"
+  },
+  "threshold_rule": "threshold=max development clean score; detector hit if score > threshold; combined C flags on any hit",
+  "thresholds": {
+    "bit_periodicity": 3.061862178478973,
+    "dash_anomaly": 0.16488413547237077,
+    "first_letter": 0.3431905151153473,
+    "height_lattice": 0.75
+  }
+}

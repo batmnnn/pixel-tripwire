@@ -1,0 +1,153 @@
+{
+ "note": "exploratory, post-freeze; uses frozen scores and frozen thresholds only",
+ "bootstrap_resamples": 5000,
+ "heldout": {
+  "overall_norm_max": {
+   "auroc": 0.851,
+   "ci95": [
+    0.766,
+    0.928
+   ],
+   "n_pos": 48,
+   "n_neg": 48
+  },
+  "per_carrier": {
+   "BAR": {
+    "detector": "height_lattice",
+    "auroc": 0.625,
+    "ci95": [
+     0.406,
+     0.844
+    ],
+    "auroc_A": 1.0,
+    "auroc_B": 0.25,
+    "n_pos": 12,
+    "n_neg": 12
+   },
+   "LINE": {
+    "detector": "dash_anomaly",
+    "auroc": 1.0,
+    "ci95": [
+     1.0,
+     1.0
+    ],
+    "auroc_A": 1.0,
+    "auroc_B": 1.0,
+    "n_pos": 12,
+    "n_neg": 12
+   },
+   "RANK": {
+    "detector": "first_letter",
+    "auroc": 0.986,
+    "ci95": [
+     0.938,
+     1.0
+    ],
+    "auroc_A": 1.0,
+    "auroc_B": 0.972,
+    "n_pos": 12,
+    "n_neg": 12
+   },
+   "GRID": {
+    "detector": "bit_periodicity",
+    "auroc": 0.542,
+    "ci95": [
+     0.299,
+     0.778
+    ],
+    "auroc_A": 0.444,
+    "auroc_B": 0.639,
+    "n_pos": 12,
+    "n_neg": 12
+   }
+  }
+ },
+ "rep": {
+  "overall_norm_max": {
+   "auroc": 0.823,
+   "ci95": [
+    0.779,
+    0.865
+   ],
+   "n_pos": 192,
+   "n_neg": 192
+  },
+  "per_carrier": {
+   "BAR": {
+    "detector": "height_lattice",
+    "auroc": 0.625,
+    "ci95": [
+     0.514,
+     0.736
+    ],
+    "auroc_A": 1.0,
+    "auroc_B": 0.25,
+    "n_pos": 48,
+    "n_neg": 48
+   },
+   "LINE": {
+    "detector": "dash_anomaly",
+    "auroc": 1.0,
+    "ci95": [
+     1.0,
+     1.0
+    ],
+    "auroc_A": 1.0,
+    "auroc_B": 1.0,
+    "n_pos": 48,
+    "n_neg": 48
+   },
+   "RANK": {
+    "detector": "first_letter",
+    "auroc": 0.928,
+    "ci95": [
+     0.874,
+     0.97
+    ],
+    "auroc_A": 0.999,
+    "auroc_B": 0.858,
+    "n_pos": 48,
+    "n_neg": 48
+   },
+   "GRID": {
+    "detector": "bit_periodicity",
+    "auroc": 0.487,
+    "ci95": [
+     0.369,
+     0.605
+    ],
+    "auroc_A": 0.451,
+    "auroc_B": 0.523,
+    "n_pos": 48,
+    "n_neg": 48
+   }
+  }
+ },
+ "fisher": {
+  "rep_recall_A_vs_B": {
+   "a": "72/96",
+   "b": "39/96",
+   "p_two_sided": 2.3e-06
+  },
+  "heldout_recall_A_vs_B": {
+   "a": "18/24",
+   "b": "11/24",
+   "p_two_sided": 0.0753
+  },
+  "false_flag_heldout_vs_rep": {
+   "a": "1/48",
+   "b": "13/192",
+   "p_two_sided": 0.313
+  },
+  "smolvlm_V_recall_vs_falseflag": {
+   "a": "30/48",
+   "b": "31/48",
+   "p_two_sided": 1.0
+  },
+  "detectors_vs_smolvlm_V_falseflag": {
+   "a": "1/48",
+   "b": "31/48",
+   "p_two_sided": 1.39e-11
+  }
+ }
+}
